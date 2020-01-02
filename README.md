@@ -32,3 +32,10 @@ Adjust the tag `cpanelos/perl-compiler:perl-v5.30.0` to point to any other flavo
 
     docker ps -a
     docker exec -it mytest bash
+
+## Available tags
+
+Here is the list of tags available from the public docker hub [cpanelos/perl-compiler](https://hub.docker.com/         repository/docker/cpanelos/perl-compiler/general).
+
+    latest -> Perl 5.30.0 patched
+    perl-v5.30.0 -> Perl 5.30.0 patched
